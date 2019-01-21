@@ -1,5 +1,6 @@
 h1 {
 	font-family: "Raleway", sans-serif;
+	color: #0d2c40;
 	font-weight: 400;
 	font-size: 45px;
 	color: #FFFFFF;
@@ -46,13 +47,7 @@ nav{
 a{
 	margin: 0 20px;
 	border-bottom: 2px solid transparent;
-	text-decoration: none;
-	font-family: "Raleway", sans-serif;
-	color: #FFFFFF;
-	letter-spacing: 1px;
-	font-weight: 600;
-	font-size: 18;
-	text-transform: uppercase;
+	text-transform: none;
 
 }
 
@@ -102,3 +97,12 @@ footer{
 	color #F15B31;
 	font-weight: 700;
 }
+
+.intro {
+	font-family: Raleway;
+	color:#F15B31;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 18px;
+	color:#FFFFFF;
+	}
